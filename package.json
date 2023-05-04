@@ -1,8 +1,8 @@
 {
-  "name": "templateforv2-static",
+  "name": "lru-cache-benchmark",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "description": "Benchmark for npm lru-cache with my implementation",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "nodemon index.js",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/codesandbox-app/static-template.git"
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
+  "author": "Hoya Kim",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/codesandbox-app/static-template/issues"
